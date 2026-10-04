@@ -2,7 +2,7 @@ Package: statsr
 Type: Package
 Title: Statistical Methods Functions in R
 Version: 0.1.0
-Authors@R: c(person(given = "Kairzhan", family = "Surname", role = c("aut","cre"), email = "your@email.com"))
+Authors@R: c(person(given = "Kairzhan", family = "Berkaliyev", role = c("aut","cre"), email = "sara280273@gmail.com"))
 Description: Collection of R functions for the Statistical Methods course:
     descriptive statistics, regression, probability distributions
     and statistical inference.
