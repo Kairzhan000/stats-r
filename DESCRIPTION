@@ -1,0 +1,17 @@
+Package: statsr
+Type: Package
+Title: Statistical Methods Functions in R
+Version: 0.1.0
+Authors@R: c(person(given = "Kairzhan", family = "Surname", role = c("aut","cre"), email = "your@email.com"))
+Description: Collection of R functions for the Statistical Methods course:
+    descriptive statistics, regression, probability distributions
+    and statistical inference.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5.0)
+Imports: stats, graphics
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.0
